@@ -156,7 +156,7 @@
             // 
             // mapTile25
             // 
-            this.mapTile25.Coordinate = new System.Drawing.Point(4, 4);
+
             this.mapTile25.Location = new System.Drawing.Point(584, 670);
             this.mapTile25.Margin = new System.Windows.Forms.Padding(6);
             this.mapTile25.Name = "mapTile25";
@@ -168,7 +168,7 @@
             // 
             // mapTile24
             // 
-            this.mapTile24.Coordinate = new System.Drawing.Point(4, 3);
+
             this.mapTile24.Location = new System.Drawing.Point(444, 670);
             this.mapTile24.Margin = new System.Windows.Forms.Padding(6);
             this.mapTile24.Name = "mapTile24";
@@ -180,7 +180,7 @@
             // 
             // mapTile23
             // 
-            this.mapTile23.Coordinate = new System.Drawing.Point(4, 2);
+
             this.mapTile23.Location = new System.Drawing.Point(304, 670);
             this.mapTile23.Margin = new System.Windows.Forms.Padding(6);
             this.mapTile23.Name = "mapTile23";
@@ -192,7 +192,7 @@
             // 
             // mapTile22
             // 
-            this.mapTile22.Coordinate = new System.Drawing.Point(4, 1);
+
             this.mapTile22.Location = new System.Drawing.Point(164, 670);
             this.mapTile22.Margin = new System.Windows.Forms.Padding(6);
             this.mapTile22.Name = "mapTile22";
@@ -204,7 +204,7 @@
             // 
             // mapTile21
             // 
-            this.mapTile21.Coordinate = new System.Drawing.Point(4, 0);
+
             this.mapTile21.Location = new System.Drawing.Point(24, 670);
             this.mapTile21.Margin = new System.Windows.Forms.Padding(6);
             this.mapTile21.Name = "mapTile21";
@@ -216,7 +216,7 @@
             // 
             // mapTile20
             // 
-            this.mapTile20.Coordinate = new System.Drawing.Point(3, 4);
+
             this.mapTile20.Location = new System.Drawing.Point(584, 530);
             this.mapTile20.Margin = new System.Windows.Forms.Padding(6);
             this.mapTile20.Name = "mapTile20";
@@ -228,7 +228,7 @@
             // 
             // mapTile19
             // 
-            this.mapTile19.Coordinate = new System.Drawing.Point(3, 3);
+
             this.mapTile19.Location = new System.Drawing.Point(444, 530);
             this.mapTile19.Margin = new System.Windows.Forms.Padding(6);
             this.mapTile19.Name = "mapTile19";
@@ -240,7 +240,7 @@
             // 
             // mapTile18
             // 
-            this.mapTile18.Coordinate = new System.Drawing.Point(3, 2);
+
             this.mapTile18.Location = new System.Drawing.Point(304, 530);
             this.mapTile18.Margin = new System.Windows.Forms.Padding(6);
             this.mapTile18.Name = "mapTile18";
@@ -252,7 +252,7 @@
             // 
             // mapTile17
             // 
-            this.mapTile17.Coordinate = new System.Drawing.Point(3, 1);
+
             this.mapTile17.Location = new System.Drawing.Point(164, 530);
             this.mapTile17.Margin = new System.Windows.Forms.Padding(6);
             this.mapTile17.Name = "mapTile17";
@@ -264,7 +264,7 @@
             // 
             // mapTile16
             // 
-            this.mapTile16.Coordinate = new System.Drawing.Point(3, 0);
+
             this.mapTile16.Location = new System.Drawing.Point(24, 530);
             this.mapTile16.Margin = new System.Windows.Forms.Padding(6);
             this.mapTile16.Name = "mapTile16";
@@ -276,7 +276,7 @@
             // 
             // mapTile15
             // 
-            this.mapTile15.Coordinate = new System.Drawing.Point(2, 4);
+
             this.mapTile15.Location = new System.Drawing.Point(584, 390);
             this.mapTile15.Margin = new System.Windows.Forms.Padding(6);
             this.mapTile15.Name = "mapTile15";
@@ -288,7 +288,7 @@
             // 
             // mapTile14
             // 
-            this.mapTile14.Coordinate = new System.Drawing.Point(2, 3);
+
             this.mapTile14.Location = new System.Drawing.Point(444, 390);
             this.mapTile14.Margin = new System.Windows.Forms.Padding(6);
             this.mapTile14.Name = "mapTile14";
@@ -300,7 +300,7 @@
             // 
             // mapTile13
             // 
-            this.mapTile13.Coordinate = new System.Drawing.Point(2, 2);
+
             this.mapTile13.Location = new System.Drawing.Point(304, 390);
             this.mapTile13.Margin = new System.Windows.Forms.Padding(6);
             this.mapTile13.Name = "mapTile13";
@@ -312,7 +312,7 @@
             // 
             // mapTile12
             // 
-            this.mapTile12.Coordinate = new System.Drawing.Point(2, 1);
+
             this.mapTile12.Location = new System.Drawing.Point(164, 390);
             this.mapTile12.Margin = new System.Windows.Forms.Padding(6);
             this.mapTile12.Name = "mapTile12";
@@ -324,7 +324,7 @@
             // 
             // mapTile11
             // 
-            this.mapTile11.Coordinate = new System.Drawing.Point(2, 0);
+
             this.mapTile11.Location = new System.Drawing.Point(24, 390);
             this.mapTile11.Margin = new System.Windows.Forms.Padding(6);
             this.mapTile11.Name = "mapTile11";
@@ -336,7 +336,7 @@
             // 
             // mapTile10
             // 
-            this.mapTile10.Coordinate = new System.Drawing.Point(1, 4);
+
             this.mapTile10.Location = new System.Drawing.Point(584, 250);
             this.mapTile10.Margin = new System.Windows.Forms.Padding(6);
             this.mapTile10.Name = "mapTile10";
@@ -348,7 +348,7 @@
             // 
             // mapTile9
             // 
-            this.mapTile9.Coordinate = new System.Drawing.Point(1, 3);
+
             this.mapTile9.Location = new System.Drawing.Point(444, 250);
             this.mapTile9.Margin = new System.Windows.Forms.Padding(6);
             this.mapTile9.Name = "mapTile9";
@@ -360,7 +360,7 @@
             // 
             // mapTile8
             // 
-            this.mapTile8.Coordinate = new System.Drawing.Point(1, 2);
+
             this.mapTile8.Location = new System.Drawing.Point(304, 250);
             this.mapTile8.Margin = new System.Windows.Forms.Padding(6);
             this.mapTile8.Name = "mapTile8";
@@ -372,7 +372,7 @@
             // 
             // mapTile7
             // 
-            this.mapTile7.Coordinate = new System.Drawing.Point(1, 1);
+
             this.mapTile7.Location = new System.Drawing.Point(164, 250);
             this.mapTile7.Margin = new System.Windows.Forms.Padding(6);
             this.mapTile7.Name = "mapTile7";
@@ -384,7 +384,7 @@
             // 
             // mapTile6
             // 
-            this.mapTile6.Coordinate = new System.Drawing.Point(1, 0);
+
             this.mapTile6.Location = new System.Drawing.Point(24, 250);
             this.mapTile6.Margin = new System.Windows.Forms.Padding(6);
             this.mapTile6.Name = "mapTile6";
@@ -396,7 +396,7 @@
             // 
             // mapTile5
             // 
-            this.mapTile5.Coordinate = new System.Drawing.Point(0, 4);
+
             this.mapTile5.Location = new System.Drawing.Point(584, 110);
             this.mapTile5.Margin = new System.Windows.Forms.Padding(6);
             this.mapTile5.Name = "mapTile5";
@@ -408,7 +408,7 @@
             // 
             // mapTile4
             // 
-            this.mapTile4.Coordinate = new System.Drawing.Point(0, 3);
+
             this.mapTile4.Location = new System.Drawing.Point(444, 110);
             this.mapTile4.Margin = new System.Windows.Forms.Padding(6);
             this.mapTile4.Name = "mapTile4";
@@ -420,7 +420,7 @@
             // 
             // mapTile3
             // 
-            this.mapTile3.Coordinate = new System.Drawing.Point(0, 2);
+
             this.mapTile3.Location = new System.Drawing.Point(304, 110);
             this.mapTile3.Margin = new System.Windows.Forms.Padding(6);
             this.mapTile3.Name = "mapTile3";
@@ -432,7 +432,7 @@
             // 
             // mapTile2
             // 
-            this.mapTile2.Coordinate = new System.Drawing.Point(0, 1);
+
             this.mapTile2.Location = new System.Drawing.Point(164, 110);
             this.mapTile2.Margin = new System.Windows.Forms.Padding(6);
             this.mapTile2.Name = "mapTile2";
@@ -444,7 +444,7 @@
             // 
             // mapTile1
             // 
-            this.mapTile1.Coordinate = new System.Drawing.Point(0, 0);
+
             this.mapTile1.Location = new System.Drawing.Point(24, 110);
             this.mapTile1.Margin = new System.Windows.Forms.Padding(6);
             this.mapTile1.Name = "mapTile1";

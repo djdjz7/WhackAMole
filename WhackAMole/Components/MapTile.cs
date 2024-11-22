@@ -11,7 +11,6 @@ namespace WhackAMole.Components
 {
     public class MapTile : PictureBox
     {
-        public Point Coordinate { get; set; }
         private bool _popped = false;
 
         public void Pop()
