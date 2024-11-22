@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace 打地鼠游戏.Properties
+namespace WhackAMole.Properties
 {
 
 

@@ -7,8 +7,8 @@
     <ProjectGuid>{049EA55B-E21F-46B0-A44D-99B0F1BF5B87}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>打地鼠游戏</RootNamespace>
-    <AssemblyName>打地鼠游戏</AssemblyName>
+    <RootNamespace>WhackAMole</RootNamespace>
+    <AssemblyName>WhackAMole</AssemblyName>
     <ApplicationIcon>l2.ico</ApplicationIcon>
     <StartupObject>
     </StartupObject>
@@ -46,6 +46,7 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
+    <Compile Include="Components\MapTile.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <SubType>Designer</SubType>

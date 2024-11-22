@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 9.00
 # Visual Studio 2005
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "打地鼠游戏", "打地鼠游戏\打地鼠游戏.csproj", "{049EA55B-E21F-46B0-A44D-99B0F1BF5B87}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhackAMole", "WhackAMole\WhackAMole.csproj", "{049EA55B-E21F-46B0-A44D-99B0F1BF5B87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的常规信息通过下列属性集
 // 控制。更改这些属性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("打地鼠游戏")]
+[assembly: AssemblyTitle("WhackAMole")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("hactcm")]
-[assembly: AssemblyProduct("打地鼠游戏")]
+[assembly: AssemblyProduct("WhackAMole")]
 [assembly: AssemblyCopyright("孙彩莉、闫琪龙、刘明洋、张圆圆、陈秀秀")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

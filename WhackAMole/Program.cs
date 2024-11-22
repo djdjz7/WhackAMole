@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Windows.Forms;
 
-namespace 打地鼠游戏
+namespace WhackAMole
 {
     static class Program
     {
