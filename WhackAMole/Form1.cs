@@ -5,6 +5,7 @@ using WhackAMole.Components;
 
 namespace WhackAMole
 {
+#nullable enable
     public partial class Form1 : Form
     {
         private const int MAP_SIZE = 5;
@@ -23,7 +24,7 @@ namespace WhackAMole
         }
 
         private readonly MapTile[,] _map;
-        private Point _lastMoleCoordinate;
+        private MapTile? _lastMoleTile;
         private int _hitCount = 0;
 
         private void Form1_Load(object sender, EventArgs e)
@@ -41,11 +42,11 @@ namespace WhackAMole
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            _map[_lastMoleCoordinate.X, _lastMoleCoordinate.Y].Reset();
+            _lastMoleTile?.Reset();
             var random = new Random();
             var index = random.Next(25);
-            _lastMoleCoordinate = new Point(index / 5, index % 5);
-            _map[_lastMoleCoordinate.X, _lastMoleCoordinate.Y].Pop();
+            _lastMoleTile = _map[index / 5, index % 5];
+            _lastMoleTile.Pop();
             LevelLabel.Text = $"第{_hitCount / 10}关";
         }
 
